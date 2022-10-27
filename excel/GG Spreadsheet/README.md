@@ -1,6 +1,7 @@
 # myproject
 Fomular
   1. Query: https://support.google.com/docs/answer/3093343?hl=en
+  2. 
     - QUERY(A2:E6,"select avg(A) pivot B")
     - 
     - Query IN and compare with date
